@@ -1,0 +1,28 @@
+name: PalC-Test
+favicon: null
+layout_spectrum: 0.5150219611823559
+typography_spectrum: 0.8986567792017013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8214264591224492
+  lightness: 0.5650756643153727
+  saturation: 0.32047263835556805
+  rhythmicContrast: 0.14100219612009823
+purpose: []
