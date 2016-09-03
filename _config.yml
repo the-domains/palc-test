@@ -1,28 +1,40 @@
-name: PalC-Test
-favicon: null
-layout_spectrum: 0.5150219611823559
-typography_spectrum: 0.8986567792017013
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5150219611823559
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.3204726383555681
+  brandStrength: 0.8214264591224492
+  rhythmicContrast: 0.1410021961200982
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.8214264591224492
   lightness: 0.5650756643153727
-  saturation: 0.32047263835556805
-  rhythmicContrast: 0.14100219612009823
 purpose: []
+favicon: null
+name: PalC-Test
+typography_spectrum: 0.8986567792017013
